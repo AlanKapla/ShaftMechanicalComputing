@@ -1,0 +1,14 @@
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.exe.config
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.exe
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.pdb
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\ShaftMechanicalComputing.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\ShaftMechanicalComputing.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.exe
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.pdb
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\obj\Debug\ShaftMechanicalComputing.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\obj\Debug\ShaftMechanicalComputing.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\bin\Debug\ShaftMechanicalComputing.exe.config
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\bin\Debug\ShaftMechanicalComputing.exe
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\bin\Debug\ShaftMechanicalComputing.pdb
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\obj\Debug\ShaftMechanicalComputing.exe
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\obj\Debug\ShaftMechanicalComputing.pdb

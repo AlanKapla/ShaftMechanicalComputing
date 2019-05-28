@@ -1,0 +1,21 @@
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.exe.config
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.exe
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.pdb
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.csprojAssemblyReference.cache
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.csproj.CoreCompileInputs.cache
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.exe
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.pdb
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.exe.config
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.exe
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.pdb
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.exe
+C:\Users\Alan\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.pdb
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.exe.config
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.exe
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\bin\Debug\Shaft 23.05.pdb
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.csprojAssemblyReference.cache
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.csproj.CoreCompileInputs.cache
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.exe
+C:\Users\alan.kapla\source\repos\Shaft 23.05\Shaft 23.05\Shaft 23.05\Shaft 23.05\obj\Debug\Shaft 23.05.pdb
